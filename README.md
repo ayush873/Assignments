@@ -8,6 +8,5 @@ It performs various functions with respect to student, subjects and marks.
   - Calculating average marks for subject-wise and student-wise.
   - Determining wheather the stident got passes or failed.
 <br>
-
-  
-2(optional.js)-Validating Subjects ID and Students ID in javascript.
+2(optional.js)
+  -Validating Subjects ID and Students ID in javascript.
